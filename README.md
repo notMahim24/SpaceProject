@@ -1,6 +1,6 @@
 # 🚀 AeroX: Aerospace Management & Mission Simulation System
 
-**Final Year Java Project | Java Swing + MySQL**
+**2nd Year Java Project | Java Swing + MySQL**
 
 AeroX is a visually rich, feature-packed Java Swing application that simulates space missions and manages aerospace tourism. It integrates mission briefings, astronaut training, emergency protocols, and database-backed login/signup features, making it suitable for both simulation and management purposes.
 
